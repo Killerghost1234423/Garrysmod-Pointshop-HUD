@@ -1,2 +1,1 @@
-# Garrysmod-Pointshop-HUD
-Simple Pointshop HUD for garrysmod
+A simple Pointshop HUD display, requires pointshop to work.
