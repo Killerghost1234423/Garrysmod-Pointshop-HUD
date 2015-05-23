@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"			"Pointshop HUD"
+	"version"		"1.0"
+	"author_name"		"killerghost123423"
+	"info"			"Adds a small hud displaying your coins in the top right corner of your screen."
+}
