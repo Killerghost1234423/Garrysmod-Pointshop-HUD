@@ -1,3 +1,5 @@
+--- Main Code
+print("Initialized Pointshop Hud")
 surface.CreateFont( "hud_font", 
                     {
                     font    = "pgfont1",
